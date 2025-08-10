@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Assistant</title>
+    <link rel="stylesheet" href="C:\Users\hp\Desktop\VIRTUAL ASSISTANT\templates\static\styles.css">
+    <!-- Link to Google Fonts for Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">Virtual Typing Assistant</h1>
+            <p class="subtitle">Analyze and improve your typing accuracy.</p>
+        </header>
+
+        <main class="main-content">
+            <div class="input-section">
+                <form action="/predict" method="post" class="prediction-form">
+                    <label for="user_input" class="form-label">Enter your text or command below:</label>
+                    <textarea id="user_input" name="user_input" rows="10" placeholder="Type here..." required class="text-input"></textarea>
+                    <button type="submit" class="submit-button">Analyze Text</button>
+                </form>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 Virtual  Assistant. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

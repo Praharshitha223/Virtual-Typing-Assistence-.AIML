@@ -1,0 +1,151 @@
+dwell_time,flight_time,backspaces,incorrect_words,spelling_errors,word_order_errors,requires_assistance,typed_sentence,corrected_sentence
+110,183,0,0,0,1,1,The cat in sited mat the on,The cat in sited mat the on
+98,109,1,2,2,0,1,She go to schoool everdyay,She go to school every day
+111,184,0,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+111,124,7,0,0,0,0,The sun rises in the east,The sun rises in the east
+82,114,6,3,2,0,1,Im sory for teh mistake,I'm sorry for the mistake
+150,171,8,0,0,0,0,She went to the market,She went to the market
+84,121,7,1,0,0,1,We is going to market today,We are going to market today
+119,104,8,2,2,0,1,She go to schoool everdyay,She go to school every day
+106,143,4,2,0,0,1,Plase send the documant,Please send the document
+111,155,4,2,1,0,1,Plase send the documant,Please send the document
+135,137,0,1,0,0,1,We is going to market today,We are going to market today
+148,193,8,2,0,0,1,He dont now the anser,He doesn't know the answer
+83,95,0,2,2,0,1,She go to schoool everdyay,She go to school every day
+120,141,4,1,1,0,1,We is going to market today,We are going to market today
+128,150,6,2,2,0,1,I lik to eatt appls,I like to eat apples
+102,91,4,1,1,0,1,We is going to market today,We are going to market today
+148,113,7,0,0,0,0,The sun rises in the east,The sun rises in the east
+143,91,4,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+137,154,5,2,0,0,1,She go to schoool everdyay,She go to school every day
+126,172,4,0,0,0,0,The sun rises in the east,The sun rises in the east
+125,90,2,0,0,0,0,They are playing football,They are playing football
+85,109,8,0,0,0,0,She went to the market,She went to the market
+106,173,8,1,1,2,1,We is going to market today,We are going to market today
+113,163,1,0,0,2,1,The cat in sited mat the on,The cat in sited mat the on
+147,104,7,3,1,0,1,Im sory for teh mistake,I'm sorry for the mistake
+114,144,0,0,0,0,0,She went to the market,She went to the market
+108,144,0,0,0,0,0,They are playing football,They are playing football
+82,146,5,1,0,0,1,We is going to market today,We are going to market today
+124,94,4,0,0,1,1,The cat in sited mat the on,The cat in sited mat the on
+96,109,3,2,0,0,1,She go to schoool everdyay,She go to school every day
+124,109,1,2,1,0,1,He dont now the anser,He doesn't know the answer
+139,106,3,2,1,0,1,He dont now the anser,He doesn't know the answer
+107,185,3,2,1,0,1,I lik to eatt appls,I like to eat apples
+146,130,3,2,0,0,1,Plase send the documant,Please send the document
+111,198,0,1,1,1,1,We is going to market today,We are going to market today
+85,134,2,2,2,0,1,She go to schoool everdyay,She go to school every day
+121,199,5,0,0,1,1,The cat in sited mat the on,The cat in sited mat the on
+106,124,0,0,0,0,0,The sun rises in the east,The sun rises in the east
+111,101,1,2,0,0,1,Plase send the documant,Please send the document
+136,198,5,2,1,0,1,I lik to eatt appls,I like to eat apples
+127,177,0,3,0,0,1,Im sory for teh mistake,I'm sorry for the mistake
+130,133,8,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+119,171,1,2,0,0,1,I lik to eatt appls,I like to eat apples
+121,156,3,0,0,0,0,The sun rises in the east,The sun rises in the east
+132,138,1,3,3,0,1,Im sory for teh mistake,I'm sorry for the mistake
+133,179,2,0,0,0,0,The sun rises in the east,The sun rises in the east
+127,175,7,0,0,0,0,They are playing football,They are playing football
+128,134,6,2,2,0,1,She go to schoool everdyay,She go to school every day
+82,90,6,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+98,142,0,0,0,0,0,They are playing football,They are playing football
+108,173,2,2,2,0,1,Plase send the documant,Please send the document
+80,151,3,2,1,0,1,She go to schoool everdyay,She go to school every day
+110,194,5,0,0,0,0,The sun rises in the east,The sun rises in the east
+116,191,0,0,0,0,0,They are playing football,They are playing football
+124,164,2,0,0,0,0,The sun rises in the east,The sun rises in the east
+122,186,5,2,0,0,1,He dont now the anser,He doesn't know the answer
+120,154,3,0,0,0,0,They are playing football,They are playing football
+133,175,2,3,3,0,1,Im sory for teh mistake,I'm sorry for the mistake
+134,165,0,0,0,0,0,They are playing football,They are playing football
+110,98,0,2,0,0,1,I lik to eatt appls,I like to eat apples
+96,96,6,1,1,1,1,We is going to market today,We are going to market today
+138,105,2,2,0,0,1,She go to schoool everdyay,She go to school every day
+128,91,5,3,1,0,1,Im sory for teh mistake,I'm sorry for the mistake
+128,106,0,2,1,0,1,She go to schoool everdyay,She go to school every day
+115,119,2,0,0,0,0,She went to the market,She went to the market
+112,171,0,0,0,0,0,She went to the market,She went to the market
+117,188,4,2,1,0,1,He dont now the anser,He doesn't know the answer
+109,193,1,0,0,0,0,They are playing football,They are playing football
+101,130,5,0,0,0,0,They are playing football,They are playing football
+145,146,4,2,2,0,1,Plase send the documant,Please send the document
+89,136,3,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+143,108,6,2,2,0,1,I lik to eatt appls,I like to eat apples
+142,132,1,0,0,0,0,She went to the market,She went to the market
+122,135,3,0,0,0,0,They are playing football,They are playing football
+134,143,7,0,0,0,0,They are playing football,They are playing football
+96,191,4,2,0,0,1,Plase send the documant,Please send the document
+82,194,1,3,1,0,1,Im sory for teh mistake,I'm sorry for the mistake
+113,161,1,1,1,2,1,We is going to market today,We are going to market today
+114,102,0,2,1,0,1,He dont now the anser,He doesn't know the answer
+80,137,4,2,1,0,1,Plase send the documant,Please send the document
+136,92,7,0,0,0,0,The sun rises in the east,The sun rises in the east
+121,150,8,2,0,0,1,I lik to eatt appls,I like to eat apples
+131,121,6,2,0,0,1,He dont now the anser,He doesn't know the answer
+138,195,5,2,1,0,1,He dont now the anser,He doesn't know the answer
+102,156,6,1,0,1,1,We is going to market today,We are going to market today
+98,197,1,1,1,0,1,We is going to market today,We are going to market today
+144,186,2,0,0,0,0,The sun rises in the east,The sun rises in the east
+103,145,2,3,3,0,1,Im sory for teh mistake,I'm sorry for the mistake
+81,165,8,2,0,0,1,She go to schoool everdyay,She go to school every day
+103,193,6,0,0,0,0,The sun rises in the east,The sun rises in the east
+130,143,8,2,0,0,1,Plase send the documant,Please send the document
+80,117,2,2,1,0,1,He dont now the anser,He doesn't know the answer
+106,148,3,2,1,0,1,I lik to eatt appls,I like to eat apples
+147,158,6,0,0,0,0,They are playing football,They are playing football
+94,95,3,0,0,0,0,The sun rises in the east,The sun rises in the east
+140,164,0,0,0,2,1,The cat in sited mat the on,The cat in sited mat the on
+126,165,3,3,0,0,1,Im sory for teh mistake,I'm sorry for the mistake
+133,167,0,2,0,0,1,I lik to eatt appls,I like to eat apples
+108,194,1,3,2,0,1,Im sory for teh mistake,I'm sorry for the mistake
+143,131,8,0,0,0,0,They are playing football,They are playing football
+140,119,3,1,1,2,1,We is going to market today,We are going to market today
+110,168,1,0,0,1,1,The cat in sited mat the on,The cat in sited mat the on
+132,193,0,0,0,0,0,They are playing football,They are playing football
+142,195,7,0,0,0,0,She went to the market,She went to the market
+98,94,1,2,0,0,1,I lik to eatt appls,I like to eat apples
+120,162,0,0,0,0,0,They are playing football,They are playing football
+80,169,2,2,2,0,1,Plase send the documant,Please send the document
+124,129,3,0,0,0,0,They are playing football,They are playing football
+124,165,4,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+95,150,8,0,0,0,0,She went to the market,She went to the market
+96,171,6,2,1,0,1,I lik to eatt appls,I like to eat apples
+148,101,3,1,1,2,1,We is going to market today,We are going to market today
+150,122,8,0,0,0,0,They are playing football,They are playing football
+103,176,0,0,0,0,0,She went to the market,She went to the market
+120,113,1,2,1,0,1,I lik to eatt appls,I like to eat apples
+125,111,1,3,0,0,1,Im sory for teh mistake,I'm sorry for the mistake
+143,184,2,1,0,0,1,We is going to market today,We are going to market today
+150,118,7,0,0,0,0,They are playing football,They are playing football
+145,104,6,2,1,0,1,She go to schoool everdyay,She go to school every day
+101,172,2,2,0,0,1,I lik to eatt appls,I like to eat apples
+134,104,2,0,0,0,0,She went to the market,She went to the market
+134,166,8,1,0,1,1,We is going to market today,We are going to market today
+111,130,1,0,0,2,1,The cat in sited mat the on,The cat in sited mat the on
+125,109,8,3,1,0,1,Im sory for teh mistake,I'm sorry for the mistake
+103,156,3,2,1,0,1,He dont now the anser,He doesn't know the answer
+145,145,8,2,2,0,1,I lik to eatt appls,I like to eat apples
+94,114,2,2,1,0,1,She go to schoool everdyay,She go to school every day
+142,158,0,0,0,0,0,They are playing football,They are playing football
+142,155,1,2,2,0,1,I lik to eatt appls,I like to eat apples
+88,169,0,2,2,0,1,I lik to eatt appls,I like to eat apples
+148,162,2,0,0,0,0,She went to the market,She went to the market
+101,131,5,2,2,0,1,Plase send the documant,Please send the document
+105,113,4,2,2,0,1,He dont now the anser,He doesn't know the answer
+103,177,7,0,0,0,0,The sun rises in the east,The sun rises in the east
+129,199,1,2,1,0,1,Plase send the documant,Please send the document
+89,178,2,0,0,0,0,The sun rises in the east,The sun rises in the east
+80,192,1,0,0,0,0,She went to the market,She went to the market
+109,111,8,3,3,0,1,Im sory for teh mistake,I'm sorry for the mistake
+83,99,6,2,0,0,1,She go to schoool everdyay,She go to school every day
+90,159,7,1,0,0,1,We is going to market today,We are going to market today
+136,160,1,2,2,0,1,Plase send the documant,Please send the document
+83,141,8,2,2,0,1,I lik to eatt appls,I like to eat apples
+123,110,2,0,0,0,0,The cat in sited mat the on,The cat in sited mat the on
+102,99,6,2,2,0,1,He dont now the anser,He doesn't know the answer
+86,101,7,1,0,1,1,We is going to market today,We are going to market today
+88,100,1,0,0,0,0,They are playing football,They are playing football
+102,102,7,2,2,0,1,She go to schoool everdyay,She go to school every day
+143,164,5,2,0,0,1,She go to schoool everdyay,She go to school every day
+88,98,8,0,0,0,0,They are playing football,They are playing football
+82,130,4,1,0,0,1,We is going to market today,We are going to market today

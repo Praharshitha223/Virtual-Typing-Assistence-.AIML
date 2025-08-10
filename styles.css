@@ -1,0 +1,265 @@
+/* style.css */
+
+/* Global styles */
+body {
+    font-family: 'Inter', sans-serif; /* Using Inter font as requested */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5; /* Light grey background */
+    color: #333; /* Dark grey text */
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align to top for longer content */
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #ffffff; /* White background for the main container */
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    max-width: 900px; /* Max width for content readability */
+    width: 95%; /* Responsive width */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden; /* Clear floats */
+}
+
+/* Header styles */
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+    width: 100%;
+}
+
+.title {
+    font-size: 2.5em;
+    color: #2c3e50; /* Dark blue-grey */
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 1.1em;
+    color: #666;
+    margin-top: 0;
+}
+
+/* Main content area */
+.main-content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+/* Input section */
+.input-section {
+    padding: 20px;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    border: 1px solid #e5e7eb;
+    margin-bottom: 25px;
+}
+
+.form-label {
+    display: block;
+    font-size: 1.05em;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.text-input {
+    width: calc(100% - 20px); /* Adjust for padding */
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1em;
+    font-family: 'Inter', sans-serif;
+    resize: vertical; /* Allow vertical resizing */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.text-input:focus {
+    outline: none;
+    border-color: #007bff; /* Blue focus border */
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25); /* Subtle glow */
+}
+
+.submit-button {
+    background-color: #007bff; /* Primary blue button */
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    width: 100%; /* Full width button */
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.2);
+}
+
+.submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+}
+
+.submit-button:active {
+    transform: translateY(0);
+}
+
+/* Results section styles */
+.results-section {
+    width: 100%;
+    margin-top: 25px;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    border: 1px solid #e5e7eb;
+    padding: 20px;
+}
+
+.results-header {
+    font-size: 1.8em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.result-block {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.block-title {
+    font-size: 1.4em;
+    color: #007bff; /* Blue for block titles */
+    margin-top: 0;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.result-item {
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #555;
+}
+
+.result-item strong {
+    color: #333;
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.result-item .original-text,
+.result-item .corrected-text {
+    font-weight: 500;
+    color: #222;
+    background-color: #e9f7fe; /* Light blue background for text display */
+    padding: 5px 8px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 5px;
+    word-break: break-word; /* Ensure long words break */
+}
+
+.result-item .error-list {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding: 0;
+    margin-top: 5px;
+}
+
+.result-item .error-list li {
+    color: #d9534f; /* Red for errors */
+    font-size: 0.95em;
+    margin-bottom: 3px;
+}
+
+/* Specific styling for metrics */
+.metric-value {
+    font-weight: 700;
+    color: #007bff; /* Blue for key metrics */
+}
+
+.metric-value.green {
+    color: #5cb85c; /* Green for good metrics like accuracy */
+}
+
+.metric-value.red {
+    color: #d9534f; /* Red for high error counts or needs suggestions */
+}
+
+/* Footer styles */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+    width: 100%;
+    color: #777;
+    font-size: 0.9em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        margin: 15px auto;
+        padding: 20px;
+    }
+
+    .title {
+        font-size: 2em;
+    }
+
+    .subtitle {
+        font-size: 1em;
+    }
+
+    .submit-button {
+        font-size: 1em;
+        padding: 10px 20px;
+    }
+
+    .results-header {
+        font-size: 1.5em;
+    }
+
+    .block-title {
+        font-size: 1.2em;
+    }
+
+    .result-item {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        margin: 10px auto;
+        padding: 15px;
+    }
+
+    .title {
+        font-size: 1.8em;
+    }
+
+    .submit-button {
+        font-size: 0.95em;
+        padding: 10px 15px;
+    }
+}
